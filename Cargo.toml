@@ -1,0 +1,6 @@
+[package]
+name = "tools-tensorflow"
+version = "0.1.0"
+edition = "2021"
+description = "SigmaOS TensorFlow model metadata and tensor shape management"
+license = "GPL-3.0-or-later"
