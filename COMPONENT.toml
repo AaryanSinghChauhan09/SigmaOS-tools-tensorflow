@@ -3,7 +3,7 @@ name = "SigmaOS-tools-tensorflow"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "tools-tensorflow component"
+description = "tools tensorflow component"
 upstream = []
 
 [contract]
